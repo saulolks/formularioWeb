@@ -88,7 +88,7 @@ A variável *$msg* armazena o possível erro na análise destes dois campos, é 
 
 #### 2.2.1. A conexão com o banco
 
-Antes de tudo é importante explicitar que em todas as páginas é realizada uma conexão com o banco, descrita no arquivo "*conexao.php*". A conexão é realizada com um banco de dados criado via **phpMyAdmin**, cujo o código para geração deste está presente no arquivo "*formulariocadastro.sql*".
+Antes de tudo é importante explicitar que em todas as páginas é realizada uma conexão com o banco, descrita no arquivo "*conexao.php*". A conexão é realizada com um banco de dados criado via **phpMyAdmin**, cujo o código para geração deste está presente no arquivo "*formulariocadastroSQL.sql*".
 
 #### 2.2.2. Inserção
 
