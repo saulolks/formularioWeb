@@ -30,6 +30,7 @@ include("node_modules/php/conexao.php");
             border-radius: 10px;
         }
         button{
+            margin-bottom: 10px;
             color: grey; 
         }
     </style>
