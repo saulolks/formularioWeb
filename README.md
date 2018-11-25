@@ -2,9 +2,9 @@
 
 O desenvolvimento deste formulário foi dividido em duas etapas: a interface de entrada para os dados do usuário e a validação e inserção dos dados no banco de dados.
 
-## 1. Formulário com Boostrap
+## 1. Formulário com Bootstrap
 
-Uma grata surpresa para mim – que apenas tive rasas aventuras em desenvolvimento web – foi o Boostrap e sua documentação completíssima. O primeiro passo para a criação desse formulário foi a elaboração de um *container* de englobaria um título para a página e os devidos campos de *input*, no arquivo principal "*index.php*". Após estabelecer o *container* e suas devidas modificações estéticas com *css*, criei uma estrutura *form* com um dos temas do Bootstrap, adicionando cada campo e especificando seus tipos de entrada. E pronto, minha página de formulário estava pronta, com um visual "clean", organizado e bonito, me levando novamente a me perguntar como nunca me arrisquei no Bootstrap antes.
+Uma grata surpresa para mim – que apenas tive rasas aventuras em desenvolvimento web – foi o Bootstrap e sua documentação completíssima. O primeiro passo para a criação desse formulário foi a elaboração de um *container* de englobaria um título para a página e os devidos campos de *input*, no arquivo principal "*index.php*". Após estabelecer o *container* e suas devidas modificações estéticas com *css*, criei uma estrutura *form* com um dos temas do Bootstrap, adicionando cada campo e especificando seus tipos de entrada. E pronto, minha página de formulário estava pronta, com um visual "clean", organizado e bonito, me levando novamente a me perguntar como nunca me arrisquei no Bootstrap antes.
 
 O botão do tipo *input* e a *action* definida no *form* enviava as informações via método *POST* para outro arquivo *.php* que tratava os dados recebidos.
 
