@@ -170,3 +170,13 @@ Desta forma, a tabela é preenchida para cada dado que cada *$lista* retornará.
 ## Conclusão
 
 Por fim, estruturar uma página de formulário utilizando estas tecnologias é simples, ao menos à altura deste projeto foi tranquilo. Como não tinha muito contato com desenvolvimento web, tive que dedicar alguns dias ao estudo das tecnologias (até agreguei um curso de POO com PHP ao currículo) numa madrugada maratonando vídeo-aulas do Curso em Vídeo. Talvez por minha falta de experiência em PHP e web em geral, não soube onde aplicar o framework Slim ao projeto, infelizmente, pois era um dos requisitos. Mas a manutenção dos dados utilizando "PHP puro" não foi muito complicado, também pela simplicidade do projeto, mas o foco é sempre aprender mais e foi muito interessante e proveitoso para mim aprender essas tecnologias até então novas para mim e aplicá-las neste desafio. Enfim, espero que gostem.
+
+## Referências
+
+* **ViaCEP** JavaScript e JSON: *https://viacep.com.br/exemplo/javascript/*
+* **Bootstrap Documentation**: *https://getbootstrap.com/docs/4.1/getting-started/introduction/*
+* **PHP Documentation**: *http://php.net/docs.php*
+* **w3school.com** CSS Tutorial: *https://www.w3schools.com/css/default.asp*
+* **GitHub.com/dahnielson** Pure PHP UUID Generator: *https://gist.github.com/dahnielson/508447*
+* **Tutorial Republic** PHP MySQL INSERT Query: *https://www.tutorialrepublic.com/php-tutorial/php-mysql-insert-query.php*
+* **Curso em Vídeo** Curso de PHP: *https://www.cursoemvideo.com/course/curso-php-iniciante/*
