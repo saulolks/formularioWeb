@@ -169,7 +169,7 @@ Desta forma, a tabela é preenchida para cada dado que cada *$lista* retornará.
 
 ## Conclusão
 
-Por fim, estruturar uma página de formulário utilizando estas tecnologias é simples, ao menos à altura deste projeto foi tranquilo. Como não tinha muito contato com desenvolvimento web, tive que dedicar alguns dias ao estudo das tecnologias (até agreguei um curso de POO com PHP ao currículo) numa madrugada maratonando vídeo-aulas do Curso em Vídeo. Talvez por minha falta de experiência em PHP e web em geral, não soube onde aplicar o framework Slim ao projeto, infelizmente, pois era um dos requisitos. Mas a manutenção dos dados utilizando "PHP puro" não foi muito complicado, também pela simplicidade do projeto, mas o foco é sempre aprender mais e foi muito interessante e proveitoso para mim aprender essas tecnologias até então novas para mim e aplicá-las neste desafio. Enfim, espero que gostem.
+Por fim, estruturar uma página de formulário utilizando estas tecnologias é simples, ao menos à altura deste projeto foi tranquilo. Como não tinha muito contato com desenvolvimento web, tive que dedicar alguns dias ao estudo das tecnologias (até agreguei um curso de POO com PHP ao currículo) numa madrugada maratonando vídeo-aulas do Curso em Vídeo. Talvez por minha falta de experiência em PHP e web em geral, não soube onde aplicar o framework Slim ao projeto, infelizmente, pois era um dos requisitos. Mas a manutenção dos dados utilizando "PHP puro" não foi muito complicado, também pela simplicidade do projeto, mas o foco é sempre aprender mais e foi muito interessante e proveitoso aprender essas tecnologias até então novas para mim e aplicá-las neste desafio. Enfim, espero que gostem.
 
 ## Referências
 
