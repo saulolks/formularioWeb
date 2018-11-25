@@ -23,7 +23,7 @@
             border: 2px solid black;
             background-color: white  ;
             border-radius: 10px;
-            width: 1500px;
+            width: 2000px;
         }
         table{
             border: 2px solid #212529;
@@ -64,7 +64,7 @@
                     <th scope="col">Bairro</th>
                     <th scope="col">Cidade</th>
                     <th scope="col">Estado</th>
-                    <th scope="col">Complemento</th>
+                    <th scope="col">Comp.</th>
                     </tr>
                 </thead>
 
